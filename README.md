@@ -1,12 +1,12 @@
-### Hello there 👋 I am Pranav
+### Hello there, I am Pranav 👋
 
-#### Blockchain Security Researcher
+#### 🧑‍💻 Blockchain Security Researcher
 
 - Leading the Security Audits at [0xCommit](https://www.0xcommit.com/)
 - Security Advisor to [Router Protocol](https://www.routerprotocol.com/), [Dfyn](https://dfyn.network/) and other projects.<br>
 - Mentor at [EthGlobal](https://ethglobal.com/)<br>
 
-#### Achievments
+#### 🚀 Achievments
 - Active participant in Secureum community since Epoch-0. Ranked Top 5 in monthly RACEs.
 - I like playing blockcahin CTFs.
    - Ranked among the top 20% in Paradigm CTF 2022 & 2023
