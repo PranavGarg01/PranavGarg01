@@ -11,7 +11,7 @@
 - I like playing blockcahin CTFs.
    - Ranked among the top 20% in Paradigm CTF 2022 & 2023
    - 23rd/248 in Blaz CTF 2023
-   - 2nd in Curta CTF 2023
+   - 2nd in Curta Cup CTF 2023
 - Got awarded 3rd place in [Hexens](https://twitter.com/hexensio) bootcamp.
 - Judged at EthBarcelona 2023
 - Mentor at EthBerlin, EthGlobal Paris, EthIndia.
