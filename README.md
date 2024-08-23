@@ -8,7 +8,8 @@
 
 #### 🚀 Achievments
 - Active participant in Secureum community since Epoch-0. Ranked Top 5 in monthly RACEs.
-- I like playing blockcahin CTFs.
+- [yAcademy](https://yacademy.dev/) Block 6 Fellow
+- I like blockcahin CTFs.
    - Ranked among the top 20% in Paradigm CTF 2022 & 2023
    - 23rd/248 in Blaz CTF 2023
    - 2nd in Curta Cup CTF 2023
