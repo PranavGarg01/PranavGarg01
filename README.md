@@ -13,8 +13,9 @@
    - Ranked among the top 20% in Paradigm CTF 2022 & 2023
    - 23rd/248 in Blaz CTF 2023
    - 2nd in Curta Cup CTF 2023
+   - 24th in Remedy CTF 2025
 - Got awarded 3rd place in [Hexens](https://twitter.com/hexensio) bootcamp.
-- Judged at EthBarcelona 2023
+- Judged at EthBarcelona 2023, EthPrague 2024
 - Mentor at EthBerlin, EthGlobal Paris, EthIndia.
 - Presented on security of cross-chain bridges at Web3Dubai & Devcon 6
 
