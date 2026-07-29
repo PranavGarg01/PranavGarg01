@@ -25,4 +25,3 @@
 * Twitter - [@pranav__garg_](https://twitter.com/pranav__garg_)
 * Telegram - [PranavGarg](https://t.me/PranavGarg)
 * Linkedin - [Pranav Garg](https://www.linkedin.com/in/pranav-garg022/)
-* Website : [pranavgarg.xyz](https://www.pranavgarg.xyz/)
